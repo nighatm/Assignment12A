@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: 'Roboto', sans-serif;
+}
+#container{
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    min-height: 50vh;
+    width: 100%;
+}
+.text{
+    color: darkred;
+}
+.divalign{
+    display: grid;
+    margin-top: 5vh;
+}
